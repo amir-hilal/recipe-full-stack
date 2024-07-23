@@ -1,0 +1,6 @@
+[submodule "recipe-back"]
+	path = recipe-back
+	url = https://github.com/amirhilal044/recipe-back.git
+[submodule "recipe-front"]
+	path = recipe-front
+	url = https://github.com/amirhilal044/recipe-app.git
